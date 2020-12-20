@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjxncoMFAaLYDr/Go6zfh+sbzD/gs0BTaa87WgrSTExAuRUkXDtwz82ihROD9y3+YM60lrNqP73eKWfUe+8fAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matmr\\Desktop\\Sprawdzian\\54599 Mateusz Mróz ININ2 B1.1\\54599 Mateusz Mróz ININ2 B1.1\\54599 Mateusz Mróz ININ2 B1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matmr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
