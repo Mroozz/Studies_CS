@@ -1,0 +1,7 @@
+C:\Users\matmr\Downloads\19KwietniaPO-master\19KwietniaPO-master\Dziedziczenie\obj\Debug\Dziedziczenie.csprojAssemblyReference.cache
+C:\Users\matmr\Downloads\19KwietniaPO-master\19KwietniaPO-master\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\matmr\Downloads\19KwietniaPO-master\19KwietniaPO-master\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\matmr\Downloads\19KwietniaPO-master\19KwietniaPO-master\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\matmr\Downloads\19KwietniaPO-master\19KwietniaPO-master\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\matmr\Downloads\19KwietniaPO-master\19KwietniaPO-master\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\matmr\Downloads\19KwietniaPO-master\19KwietniaPO-master\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
