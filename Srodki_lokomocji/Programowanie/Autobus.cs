@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _54599_Mateusz_Mróz_ININ2_B1._1
+namespace Mateusz_ININ2_B1._1
 {
     class Autobus : SrodekLokomocji
     {
