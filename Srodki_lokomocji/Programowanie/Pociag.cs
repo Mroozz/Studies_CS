@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
-namespace _54599_Mateusz_Mróz_ININ2_B1._1
+namespace Mateusz_ININ2_B1._1
 {
     class Pociag : SrodekLokomocji
     {
